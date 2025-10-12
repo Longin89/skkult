@@ -1,0 +1,7 @@
+{
+  "%USERNAME%": {
+    "Админка": "admindashboard",
+    "Главная": "home",
+    "Выйти": "register/logout"
+  }
+}

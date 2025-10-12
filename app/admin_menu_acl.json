@@ -1,0 +1,24 @@
+{
+    "Цены": {
+        "Просмотр": "prices/index",
+        "Cписок": "prices/list"
+    },
+    "Расписание": {
+        "Просмотр": "schedule/index",
+        "Список": "schedule/list"
+    },
+    "Новости": {
+        "Просмотр": "posts/index",
+        "Cписок": "posts/list"
+    },
+    "Контакты": {
+        "Просмотр": "contacts/index",
+        "Редактировать": "contacts/edit"
+    },
+    "О клубе": {
+        "Просмотр": "about/index",
+        "Редактировать": "about/edit"
+    },
+    "Тренеры": "coaches/list",
+    "Галерея": "gallery/edit/4"
+}

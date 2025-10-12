@@ -1,0 +1,8 @@
+{
+    "Главная": "home",
+    "Цены": "prices/index",
+    "Расписание занятий": "schedule/index",
+    "Новости": "posts/index",
+    "Контакты": "contacts/index",
+    "О клубе": "about/index"
+}

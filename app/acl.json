@@ -1,0 +1,94 @@
+{
+    "Guest": {
+        "denied": {
+            "Admindashboard": [
+                "*"
+            ],
+            "Prices": [
+                "/edit"
+            ],
+            "Schedule": [
+                "/edit"
+            ],
+            "Posts": [
+                "/add",
+                "/list"
+            ],
+            "Contacts": [
+                "/edit"
+            ],
+            "About": [
+                "/edit"
+            ],
+            "Coaches": [
+                "*"
+            ],
+            "Gallery": [
+                "*"
+            ]
+        },
+        "Home": [
+            "*"
+        ],
+        "Prices": [
+            "index"
+        ],
+        "Schedule": [
+            "index"
+        ],
+        "Posts": [
+            "index"
+        ],
+        "Contacts": [
+            "index"
+        ],
+        "About": [
+            "index"
+        ],
+        "Restricted": [
+            "*"
+        ],
+        "Register": [
+            "login",
+            "register"
+        ]
+    },
+    "LoggedIn": {
+        "denied": {
+            "Register": [
+                "login",
+                "register"
+            ]
+        },
+        "Register": [
+            "logout"
+        ]
+    },
+    "SuperAdmin": {
+        "denied": {},
+        "Admindashboard": [
+            "*"
+        ],
+        "Prices": [
+            "*"
+        ],
+        "Schedule": [
+            "*"
+        ],
+        "Posts": [
+            "*"
+        ],
+        "Contacts": [
+            "*"
+        ],
+        "About": [
+            "*"
+        ],
+        "Coaches": [
+            "*"
+        ],
+        "Gallery": [
+            "*"
+        ]
+    }
+}
